@@ -33,7 +33,7 @@ int main()
   std::cout<<"Enter a number:";
   std::cin>>no;
 
-  fac = 1;
+  fac = 1 ;
   for(int r=no; r >= 1; r--)
     {
       fac = fac *r;

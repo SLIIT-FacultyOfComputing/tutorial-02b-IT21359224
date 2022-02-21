@@ -48,7 +48,7 @@ int main()
 #include <iostream>
 int main()
 {
-  double salary,netSalary;
+  double salary, netSalary;
   int etype,otHrs,otRate;
 
   std::cout<<"Enter employee Type:";

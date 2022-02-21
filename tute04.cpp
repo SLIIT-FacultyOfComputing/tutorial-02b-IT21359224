@@ -44,7 +44,7 @@ int fact(int n)
 
 int main()
 {
-  int n,r;
+  int n, r;
 
   std::cout<<"Enter value of n:";
   std::cin>>n;
